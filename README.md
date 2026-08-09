@@ -1,6 +1,6 @@
 <div>
   <h3>About Me:</h3>
-  <p>Currently on the fisrt semester of Computer Science, exploring tech areas. Right now my studies are focusing on understanding backend and frontend technologies :)</p>
+  <p>Currently on the second semester of Computer Science, exploring tech areas. Right now my studies are focusing on understanding backend and frontend technologies :)</p>
 </div>
 <div style="display: inline_block"><br>
   <h3>Currenty Studying:</h3>
