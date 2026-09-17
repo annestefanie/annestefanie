@@ -21,9 +21,9 @@ I create scalable solutions by combining <strong>creative</strong> problem-solvi
 ###
 
 #### STATS
-<div>
+<div align="justify" display="flex">
   <img height="240em" src="https://github-readme-sooty.vercel.app/api?username=annestefanie&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_title=true&show_icons=true&theme=dark&hide_border=true&bg_color=000&icon_color=fff&title_color=fff&text_color=ffffff&custom_title=GitHub%20Stats&border_radius=0&count_private=true&include_all_commits=true" />
-  <img height="240em" src="https://github-readme-sooty.vercel.app/api/top-langs/?username=annestefanie&layout=compact&hide_title=true&show_icons=true&theme=dark&hide_border=true&bg_color=000&icon_color=fff&title_color=fff&text_color=ffffff&custom_title=GitHub%20Stats&langs_count=10&border_radius=0&include_private=true" />
+  <img height="225em" src="https://github-readme-sooty.vercel.app/api/top-langs/?username=annestefanie&layout=compact&hide_title=true&show_icons=true&theme=dark&hide_border=true&bg_color=000&icon_color=fff&title_color=fff&text_color=ffffff&custom_title=GitHub%20Stats&langs_count=10&border_radius=0&include_private=true" />
 </div>
 
 ###
