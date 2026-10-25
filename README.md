@@ -11,12 +11,15 @@ I create scalable solutions by combining <strong>creative</strong> problem-solvi
 [![CSS](https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css3&logoColor=white)]()
 [![GIT](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/TypeScript)
+[![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/React)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/TailwindCSS)
 
 ###
 
 #### CONTACT ME
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annestefanie4321@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anne-c-b11aab3aa/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annestefanie/)
 
 ###
 
